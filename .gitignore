@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Firebase
+firebase_key.json
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
+
+# Uploaded Images
+uploaded_photos/
