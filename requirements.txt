@@ -12,7 +12,7 @@ numpy
 pypdf
 plotly
 reportlab
-tensorflow
+tensorflow==2.19.0
 tf-keras
 deepface
 streamlit-float
