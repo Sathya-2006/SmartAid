@@ -408,7 +408,7 @@ _components.html(_chatbot_html, height=0)
 st.markdown("""
 <div class="footer">
     <h2>"Empowering People. Strengthening Communities. Building a Better India."</h2>
-    <p>© 2026 SmartAid | support@smartaid.org | Chennai, Tamil Nadu</p>
+    <p>© 2026 SmartAid | smartaid.team.ai@gmail.com | Chennai, Tamil Nadu</p>
 </div>
 """, unsafe_allow_html=True)
 
